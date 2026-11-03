@@ -62,6 +62,7 @@ int main()
     return 0;
 }
 
+OUTPUT:
 ===== BITWISE OPERATIONS =====
 
 Enter the first number: 12
